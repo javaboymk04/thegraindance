@@ -5,7 +5,7 @@ description = "How nice of you to want to know more about me"
 +++
 
 {{< figure
-    src="/images/about/Bersoreria16682.jpg"
+    src="images/about/Bersoreria16682.jpg"
     alt="Self potrait of me with Kentmere 200"
     caption="Not the most recent self potrait, but i like this one."
     class="ma0 center w-90"

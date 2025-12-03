@@ -21,7 +21,7 @@ My name is Alif, also going with javaboymk03. I'm a hobbyist film photography th
 Currently, my gear are as follows:
 - **Pentax MX:** My go to gear, the one i used the most.
 {{< figure
-    src="/images/Introduction/Pentax_MX_CaptOblivious.jpg"
+    src="images/Introduction/Pentax_MX_CaptOblivious.jpg"
     alt="Pentax MX Camera"
     caption="Credit: commons.wikimedia.org"
     class="ma0 center w-90"
@@ -29,7 +29,7 @@ Currently, my gear are as follows:
 
 - **Fuji DL-25 Date:** Secondary option, usually for parties or gatherings
 {{< figure
-    src="/images/Introduction/fuji_dl_25_date.jpg"
+    src="images/Introduction/fuji_dl_25_date.jpg"
     alt="Fuji DL-25 Date"
     caption="There's not much information regarding this camera in the web, not gonna lie."
     class="ma0 center w-90"
@@ -37,7 +37,7 @@ Currently, my gear are as follows:
 
 - **Seagull 4A:** Newest addition to the gang, why I chose this over Rolleiflex or any other TLR will be discussed in the future.
 {{< figure
-    src="/images/Introduction/seagull-TLR-2.jpg"
+    src="images/Introduction/seagull-TLR-2.jpg"
     alt="Seagull 4A"
     caption="The famous (or infamous) Seagull 4A"
     class="ma0 center w-90"
