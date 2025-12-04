@@ -179,6 +179,8 @@ And here are the result:
 
 Yes you've seen the last picture in the cover, don't care, I like it *that* much.
 
+I believe that there are no wasted frame in photography (to some extent). So if you want to see the other pictures that didn't make it into this blog, be sure to check out [my Lomography home page.](https://www.lomography.com/homes/javaboymk03/) Alternatively, check out the album for [Lomgraphy 800+1](https://www.lomography.com/homes/javaboymk03/albums/2502937-lomocolor-800-1) and for [Cyberpunk 800T +1](https://www.lomography.com/homes/javaboymk03/albums/2502936-cyberpunk-800t-1)
+
 ---
 
 ## Bottom line
