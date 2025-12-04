@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/categories/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/others/introduction/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/others/introduction/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/others/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/categories/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/others/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/others/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/tags/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/tags/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/opinion/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/opinion/</loc>
     <lastmod>2025-12-02T13:36:28+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/review/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/review/</loc>
     <lastmod>2025-11-26T22:59:02+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://thegraindance.alif4chan.workers.dev/about/</loc>
   </url>
 </urlset>
