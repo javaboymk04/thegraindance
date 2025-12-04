@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reviews on The Grain Dance</title>
-    <link>https://thegraindance.pages.dev/review/</link>
+    <link>https://javaboymk04.github.io/TheGrainDance/review/</link>
     <description>Recent content in Reviews on The Grain Dance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://thegraindance.pages.dev/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://javaboymk04.github.io/TheGrainDance/review/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

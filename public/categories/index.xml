@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Grain Dance</title>
-    <link>https://thegraindance.pages.dev/categories/</link>
+    <link>https://javaboymk04.github.io/TheGrainDance/categories/</link>
     <description>Recent content in Categories on The Grain Dance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Dec 2025 23:40:52 +0700</lastBuildDate>
-    <atom:link href="https://thegraindance.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://javaboymk04.github.io/TheGrainDance/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others</title>
-      <link>https://thegraindance.pages.dev/categories/others/</link>
+      <link>https://javaboymk04.github.io/TheGrainDance/categories/others/</link>
       <pubDate>Tue, 02 Dec 2025 23:40:52 +0700</pubDate>
-      <guid>https://thegraindance.pages.dev/categories/others/</guid>
+      <guid>https://javaboymk04.github.io/TheGrainDance/categories/others/</guid>
       <description></description>
     </item>
   </channel>
