@@ -8,7 +8,7 @@ theme = 'ananke'
 [params]
     featured_image_class = "cover bg-center"
     custom_css = ["custom.css"]
-    mainSections = ["opinion", "review", "others"]
+    mainSections = ["opinion", "review", "diary", "others"]
     site_logo = "images/logo.png"
 
 #Taxonomies
@@ -39,11 +39,16 @@ theme = 'ananke'
     name = "Category"
     url = "/categories/"
     weight = 20
+
+    [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
     
     [[menu.main]]
     name = "Lomography"
     url = "https://www.lomography.com/homes/javaboymk03/"
-    weight = 30
+    weight = 40
 
 #Cache
 [caches]
@@ -68,3 +73,10 @@ theme = 'ananke'
   [caches.modules]
     dir = ':cacheDir/modules'
     maxAge = -1
+
+    #Privacy for instagram
+
+    [privacy]
+      [privacy.instagram]
+      disable = false
+      simple = false

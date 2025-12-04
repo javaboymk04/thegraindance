@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag 1 on The Grain Dance</title>
+    <link>http://localhost:1313/tags/tag-1/</link>
+    <description>Recent content in Tag 1 on The Grain Dance</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2025 23:38:30 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Others_test</title>
+      <link>http://localhost:1313/others/others_test/</link>
+      <pubDate>Tue, 02 Dec 2025 23:38:30 +0700</pubDate>
+      <guid>http://localhost:1313/others/others_test/</guid>
+      <description>&lt;p&gt;This is an others test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
