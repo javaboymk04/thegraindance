@@ -1,4 +1,4 @@
-baseURL = 'https://javaboymk04.github.io/TheGrainDance/'
+baseURL = 'https://github.com/javaboymk04/thegraindance/'
 languageCode = 'en-us'
 title = 'The Grain Dance'
 theme = 'ananke'
@@ -49,3 +49,27 @@ theme = 'ananke'
     name = "Category"
     url = "/categories/"
     weight = 20
+
+#Cache
+[caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.images]
+    dir = ':cacheDir/images'
+    maxAge = -1
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1
