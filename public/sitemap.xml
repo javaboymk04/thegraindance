@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/others/introduction/</loc>
+    <loc>http://localhost:1313/others/introduction/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/categories/others/</loc>
+    <loc>http://localhost:1313/categories/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/others/</loc>
+    <loc>http://localhost:1313/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/tags/others/</loc>
+    <loc>http://localhost:1313/tags/others/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-02T23:40:52+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/opinion/</loc>
+    <loc>http://localhost:1313/opinion/</loc>
     <lastmod>2025-12-02T13:36:28+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/review/</loc>
+    <loc>http://localhost:1313/review/</loc>
     <lastmod>2025-11-26T22:59:02+07:00</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/TheGrainDance/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>

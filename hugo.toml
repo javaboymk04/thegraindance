@@ -20,22 +20,12 @@ theme = 'ananke'
 #Social icons
 
 [params.ananke.social.follow]
-    networks =["instagram", "lomography"]
+    networks =["instagram"]
 
 [params.ananke.social.instagram]
     username = "javaboymk03"
 
-[params.ananke.social.lomography]
-    username = "javaboymk03"
 
-#Defining Lomography
-
-[params.ananke.social.networks.lomography]
-    slug = "lomography"
-    label = "Lomography"
-    profile = "https://www.lomography.com/homes/%s"
-    icon = "lomography"
-    share = false
 
 #Menu 
 
@@ -49,6 +39,11 @@ theme = 'ananke'
     name = "Category"
     url = "/categories/"
     weight = 20
+    
+    [[menu.main]]
+    name = "Lomography"
+    url = "https://www.lomography.com/homes/javaboymk03/"
+    weight = 30
 
 #Cache
 [caches]

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Grain Dance</title>
-    <link>https://javaboymk04.github.io/TheGrainDance/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Grain Dance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Dec 2025 23:40:52 +0700</lastBuildDate>
-    <atom:link href="https://javaboymk04.github.io/TheGrainDance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://javaboymk04.github.io/TheGrainDance/others/introduction/</link>
+      <link>http://localhost:1313/others/introduction/</link>
       <pubDate>Tue, 02 Dec 2025 23:40:52 +0700</pubDate>
-      <guid>https://javaboymk04.github.io/TheGrainDance/others/introduction/</guid>
+      <guid>http://localhost:1313/others/introduction/</guid>
       <description>&lt;p&gt;Welcome, I&amp;rsquo;m sure that you&amp;rsquo;re not finding this from google or something because I haven&amp;rsquo;t put any SEO in this website (at the time of writing) but if you do. Welcome!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://javaboymk04.github.io/TheGrainDance/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://javaboymk04.github.io/TheGrainDance/about/</guid>
-      <description>&lt;figure class=&#34;ma0 center w-90&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://javaboymk04.github.io/TheGrainDance/images/about/Bersoreria16682.jpg&#34;&#xD;&#xA;       alt=&#34;Self potrait of me with Kentmere 200&#34;&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;figcaption&gt;Not the most recent self potrait, but i like this one.&lt;/figcaption&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;p&gt;My name is Muhammad &lt;strong&gt;Alif&lt;/strong&gt; Farchan. Graduated with International Relations degree back in 2023, worked as video editor before and now I&amp;rsquo;m the branding guy at a Jakarta &amp;amp; London based consulting firm.&lt;/p&gt;&#xA;&lt;p&gt;Since my significant other introduced me to film photography around 2024, I&amp;rsquo;ve been using it as an escapism from this capitalistic hell hole that has been draining my sanity every time I clock in.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;ma0 center w-90&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about/Bersoreria16682.jpg&#34;&#xD;&#xA;       alt=&#34;Self potrait of me with Kentmere 200&#34;&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;figcaption&gt;Not the most recent self potrait, but i like this one.&lt;/figcaption&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;&lt;p&gt;My name is Muhammad &lt;strong&gt;Alif&lt;/strong&gt; Farchan. Graduated with International Relations degree back in 2023, worked as video editor before and now I&amp;rsquo;m the branding guy at a Jakarta &amp;amp; London based consulting firm.&lt;/p&gt;&#xA;&lt;p&gt;Since my significant other introduced me to film photography around 2024, I&amp;rsquo;ve been using it as an escapism from this capitalistic hell hole that has been draining my sanity every time I clock in.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
