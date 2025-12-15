@@ -24,4 +24,6 @@ Since my significant other introduced me to film photography around 2024, I've b
 - **Fuji DL-25 Date**, for those quick snap during happy moments.
 - **Seagull 4A-107**, My first foray into the world of medium format (currently at the hospital for repairs)
 
+If you want to work with me, please don't hesitate to [contact me!](mailto:alif4chan@gmail.com)
+
 Enjoy your time and have a great day!
