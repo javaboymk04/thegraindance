@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thegraindance.alif4chan.workers.dev/categories/</loc>
-    <lastmod>2025-12-04T19:35:41+07:00</lastmod>
-  </url><url>
     <loc>https://thegraindance.alif4chan.workers.dev/diary/</loc>
+    <lastmod>2025-12-09T21:29:35+07:00</lastmod>
+  </url><url>
+    <loc>https://thegraindance.alif4chan.workers.dev/</loc>
+    <lastmod>2025-12-09T21:29:35+07:00</lastmod>
+  </url><url>
+    <loc>https://thegraindance.alif4chan.workers.dev/categories/</loc>
     <lastmod>2025-12-04T19:35:41+07:00</lastmod>
   </url><url>
     <loc>https://thegraindance.alif4chan.workers.dev/categories/diary/</loc>
@@ -21,9 +24,6 @@
     <lastmod>2025-12-04T19:35:41+07:00</lastmod>
   </url><url>
     <loc>https://thegraindance.alif4chan.workers.dev/tags/</loc>
-    <lastmod>2025-12-04T19:35:41+07:00</lastmod>
-  </url><url>
-    <loc>https://thegraindance.alif4chan.workers.dev/</loc>
     <lastmod>2025-12-04T19:35:41+07:00</lastmod>
   </url><url>
     <loc>https://thegraindance.alif4chan.workers.dev/others/introduction/</loc>

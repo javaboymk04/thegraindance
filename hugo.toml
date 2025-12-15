@@ -33,22 +33,26 @@ theme = 'ananke'
     [[menu.main]]
     name ="About"
     url = "/about/"
-    weight = 10
+    weight = 1
 
     [[menu.main]]
     name = "Category"
     url = "/categories/"
-    weight = 20
+    weight = 2
 
     [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 30
+    weight = 3
     
     [[menu.main]]
     name = "Lomography"
     url = "https://www.lomography.com/homes/javaboymk03/"
-    weight = 40
+    weight = 4
+    [[menu.main]]
+    name = "Portfolio"
+    url = "https://the-exposure.alif4chan.workers.dev/"
+    weight = 5
 
 #Cache
 [caches]

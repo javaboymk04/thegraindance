@@ -22,6 +22,6 @@ Since my significant other introduced me to film photography around 2024, I've b
   - Pentax-M 80-200mm f4.5
   - Pentax 28mm but barely used due to mechanical issue and messed up coating
 - **Fuji DL-25 Date**, for those quick snap during happy moments.
-- **Seagull 4A-107**, My first foray into the world of medium format.
+- **Seagull 4A-107**, My first foray into the world of medium format (currently at the hospital for repairs)
 
-If you're looking for my portfolio, there's no website for it at the moment of writing this. But you could check out the one I made in Canva by clicking [this link.](https://drive.google.com/file/d/1Qm2tL8dt3U02yC7s0AvcahFVj_iMn6ZE/view?usp=drive_link)
+Enjoy your time and have a great day!
