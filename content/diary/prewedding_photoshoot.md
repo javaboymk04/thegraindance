@@ -1,6 +1,6 @@
 +++
 date = '2025-12-09T21:29:35+07:00'
-draft = true
+draft = false
 title = 'First Pre-Wedding Session: a Fun, Scary, Workout'
 author = "M. Alif Farchan"
 categories = "Diary"
